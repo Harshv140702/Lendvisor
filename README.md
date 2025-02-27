@@ -15,7 +15,7 @@ Lendvisor is built using the following technologies:
 
 To use Lendvisor:
 
-1. Visit [Lendvisor Website](https://lendvisor--harshv140702.repl.co/).
+1. Visit [Lendvisor Website](https://replit.com/@Harshv140702/Lendvisor?v=1).
 
 2. Input your financial details and submit your loan application.
 
